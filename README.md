@@ -1,16 +1,153 @@
-# 💫 About Me:
-I am a fullstack Java and JavaScript developer with over 2 years of experience in the industry. My specialization lies in React and Next.js, allowing me to create dynamic and efficient web applications. I'm passionate about writing clean, maintainable code and continuously improving my development practices. I thrive in collaborative environments and enjoy contributing to team success through effective communication and problem-solving skills.
+<div align="center">
 
+# Krish Mehul Vadhani
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/krish-vadhani-020a19197) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/KrishVadhani) 
+**AI Systems · Full-Stack · DevOps · Startup Engineer**
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0) ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt.js&logoColor=#00DC82) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white) ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=krishvadhani19&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=krishvadhani19&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishvadhani19&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+*I build things that scale. I've done it multiple times. I'll do it again.*
 
----
-[![](https://visitcount.itsvg.in/api?id=krishvadhani19&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Location](https://img.shields.io/badge/Boston%20%2F%20San%20Francisco-4A90D9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishvadhani)
+[![Email](https://img.shields.io/badge/vadhani.k@northeastern.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vadhani.k@northeastern.edu)
+[![Phone](https://img.shields.io/badge/(617)_560--0171-1a1a1a?style=for-the-badge&logoColor=white)](tel:6175600171)
+
+</div>
+
+<br>
+
+## Open to Work
+
+I'm actively looking for roles in **Software Engineering** and **DevOps / Cloud Infrastructure** where I can own hard problems end-to-end and move fast. I thrive in startup-speed environments, but I bring the engineering discipline of a much larger org. If you're building something ambitious, let's talk.
+
+`vadhani.k@northeastern.edu` · `(617) 560-0171`
+
+<br>
+
+## Who I Am
+
+I'm the engineer who joined Resemble AI and built their entire voice agents platform from zero. Architecture, infrastructure, real-time streaming, multi-agent orchestration, and enterprise deployment. All of it. Before that I engineered event-driven microservices at a Sequoia-backed company, led a full platform redesign, and built a multi-agent RAG system for a Northeastern-backed research lab. From scratch. Every time.
+
+I don't wait for tickets. I identify the problem, design the solution, build it, instrument it, and ship it. That's just how I work.
+
+I've operated across the full stack: frontend, backend, cloud infrastructure, AI/ML pipelines, DevOps. I'm equally at home optimizing a Kubernetes cluster as I am tuning vLLM inference or building a React dashboard. What stays constant is the standard: production-grade, observable, scalable, and fast.
+
+> MS Computer Software Engineering · Northeastern University, Boston · GPA 3.8
+> BS Computer Engineering · University of Mumbai · GPA 3.6
+
+<br>
+
+## What I've Actually Built
+
+### Voice Agents Platform
+`Resemble AI · Google & Sony backed`
+
+- Built the entire platform from scratch: SIP trunk integration across Twilio, Telnyx, and BYO-SIP, full call lifecycle management, MCP integration, RAG pipelines, tool calling, and multi-agent orchestration for real-time in-call handoffs between sales, technical, and billing agents. Scaled to **1,000+ concurrent enterprise calls**.
+- Went deep into vLLM internals: KV cache allocation, continuous batching, speculative decoding. Cut TTFT by **37%**.
+- Built custom WebSocket streaming pipelines with backpressure handling and connection multiplexing to hit **sub-800ms p95 end-to-end latency**.
+- GPU-aware auto-scaling and model sharding brought inference costs down by **38%**.
+- Built the full observability layer: per-session tracking of end-of-utterance delay, STT transcription latency, LLM TTFT, TTS TTFB, tokens per second, and character counts for cost profiling.
+- Extended the platform into a post-call suite with recording, transcription, and a management dashboard that competed with Otter.ai and Fireflies and generated paying customers.
+
+### Real-Time Deepfake Detection
+`Resemble AI · Google & Sony backed`
+
+- Designed and shipped a live deepfake detection system for Google Meet, Teams, and Zoom.
+- Engineered per-participant audio and video stream ingestion feeding proprietary deepfake models in real time.
+- Wired up automated host alerting at **90%+ confidence**. Real-time. Production.
+
+### Multi-Agent RAG System
+`Dash Labs · Northeastern University backed`
+
+- Built a multi-agent RAG pipeline from scratch: LangChain orchestration, FAISS vector indexing, and sentence-transformer embeddings for automated essay evaluation.
+- Built the entire product around it: frontend, backend, API layer, and integration points between the agent pipeline and application layer.
+- Benchmarked grading accuracy across Llama 3.1 and DeepSeek-R1 using single-shot prompting, chain-of-thought, and multi-agent strategies to pick the right model for production.
+
+### Platform Engineering
+`Avataar · Sequoia & Tiger Global backed`
+
+- Engineered a JWT session governance system with server-side token rotation and invalidation. Result: **+33% paid conversions** among free-tier users.
+- Led a platform-wide responsive redesign with a breakpoint-driven layout system, adaptive component rendering, and lazy-loaded viewport-specific assets. Result: **+57% mobile signups**.
+- Architected event-driven microservices on Node.js and Express for social interactions with async message queues and read-replica routing. Result: **-43% API response times**.
+- Built a multi-tier caching layer using AWS CloudFront, S3, and cache invalidation policies with origin shield and edge-optimized distribution. Result: **-38% thumbnail load times** globally.
+
+<br>
+
+## Technical Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
+**AI / ML & LLMs**
+
+![Python](https://img.shields.io/badge/vLLM-412991?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/LLM%20Inference-412991?style=for-the-badge&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS%20%2F%20Milvus%20%2F%20ChromaDB-00A4EF?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Full-Stack**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_CI%2FCD-181717?style=for-the-badge&logo=github&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+
+<br>
+
+## How I Work
+
+**I own the outcome, not the task.** I don't execute tickets and hand off. I identify the problem, design the solution, build it, ship it, and monitor it. If something breaks at 2am, I already have alerts set up.
+
+**I move startup fast with production standards.** Short cycles, fast feedback, aggressive iteration. But with proper observability, error handling, and architecture baked in from the start. I've seen what happens when you skip those steps. I don't skip them.
+
+**I go deep.** I've debugged vLLM KV cache behavior. I've traced WebSocket backpressure to the byte level. I've profiled SIP signaling latency end-to-end. When something is slow or broken, I don't guess. I instrument, measure, and fix.
+
+**I build for scale from day one.** Not premature optimization. But architecture decisions that don't require a full rewrite at 10x traffic. Concurrency models, resource management, and deployment infrastructure designed to grow.
+
+**Agile isn't a process to me. It's a mindset.** Deliver incrementally. Validate constantly. Adapt quickly. Ship.
+
+<br>
+
+## Currently Exploring
+
+Advanced LLM inference optimization · Real-time multimodal AI systems · Large-scale DevOps and platform engineering
+
+<br>
+
+<div align="center">
+
+*"Move fast, build things that last."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=krishvadhani&color=red&style=flat-square)
+
+</div>
