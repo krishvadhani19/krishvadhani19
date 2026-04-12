@@ -7,7 +7,7 @@
 *I build things that scale. I've done it multiple times. I'll do it again.*
 
 [![Location](https://img.shields.io/badge/Boston%20%2F%20San%20Francisco-4A90D9?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishvadhani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/krishvadhani](https://www.linkedin.com/in/krish-mehul-vadhani-020a19197/))
 [![Email](https://img.shields.io/badge/vadhani.k@northeastern.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vadhani.k@northeastern.edu)
 [![Phone](https://img.shields.io/badge/(617)_560--0171-1a1a1a?style=for-the-badge&logoColor=white)](tel:6175600171)
 
